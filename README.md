@@ -2,7 +2,7 @@
 
 ## Examples of Car Dashboards 
 ### Dashboard 1
-!<img src="images2/pic1.jpeg" width="100" height="100">
+<img src="images2/pic1.jpeg" width="500" height="500">
 ### Dashboard 2
 ![pic1](/images2/pic2.jpeg#left=100x100)
 ### Dashboard 3
