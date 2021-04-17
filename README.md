@@ -1,18 +1,7 @@
 # Example Designs
 
-## Examples of Car Dashboards
-![image alt <](/images2/pic1.jpeg) 
-img[alt$="<"] {
-  float: left;
-}
-
-img[alt$="><"] {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: auto;
-  float: none!important;
-}
+## Examples of Car Dashboards 
+![pic1](/images2/pic1.jpeg#left)
 # Creating a New Design
 
 ## Most common uses/ rare uses
