@@ -1,7 +1,7 @@
 # Example Designs
 
 ## Examples of Car Dashboards
-![image alt <](/image-left.jpg) 
+![image alt <](/images2/pic1.jpeg) 
 img[alt$="<"] {
   float: left;
 }
