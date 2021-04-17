@@ -1,6 +1,8 @@
-# Project 2
+# Example Designs
 
 ## Examples of Car Dashboards
+
+# Creating a New Design
 
 ## Most common uses/ rare uses
 
