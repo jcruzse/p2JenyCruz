@@ -2,8 +2,12 @@
 
 ## Examples of Car Dashboards 
 ### Dashboard 1
- <img src="images2/pic1.jpeg" width="500" height="400">  ### Pros and Cons
-
+<table>
+ <tr>
+ <th> <img src="images2/pic1.jpeg" width="500" height="400">  </th>
+  <th> Pros and Cons </th>
+ </tr>
+ </table> 
 ### Dashboard 2
 <img src="images2/pic2.jpeg" width="500" height="400">
 ### Dashboard 3
