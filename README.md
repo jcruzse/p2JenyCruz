@@ -5,7 +5,7 @@
 <table>
  <tr>
  <th> <img src="images2/pic1.jpeg" width="500" height="400">  </th>
-  <th> Pros and Cons </th>
+  <th> Pros and Cons <br> Pros <br> Cons  </th>
  </tr>
  </table> 
 ### Dashboard 2
