@@ -2,7 +2,7 @@
 
 ## Examples of Car Dashboards 
 ### Dashboard 1
-![pic1](/images2/pic1.jpeg#left)
+|![pic1](/images2/pic1.jpeg#left)| ### Pros and Cons |
 ### Dashboard 2
 ![pic1](/images2/pic2.jpeg#left)
 ### Dashboard 3
