@@ -5,10 +5,14 @@
  <img src="images2/pic1.jpeg" width="500" height="400"> 
 <h3> Pros and Cons </h3>
  PROS
- - different displays so easier to read
- - consistent design over the 5 different sections <br>
+ <ul>
+ <li>different displays so easier to read</li>
+ <li>consistent design over the 5 different sections</li>
+ </ul>
  CONS
- - May be overwhelming to have too many smaller displays
+ <ul>
+ <li> May be overwhelming to have too many smaller displays</li>
+ </ul>
 ### Dashboard 2
 <img src="images2/pic2.jpeg" width="500" height="400">
 <h3> Pros and Cons </h3>
