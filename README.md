@@ -4,11 +4,18 @@
 ### Dashboard 1
  <img src="images2/pic1.jpeg" width="500" height="400"> 
 <h3> Pros and Cons </h3>
- 
+ PROS
+ - different displays so easier to read
+ - consistent design over the 5 different sections
+ CONS
+ - May be overwhelming to have too many smaller displays
 ### Dashboard 2
 <img src="images2/pic2.jpeg" width="500" height="400">
 <h3> Pros and Cons </h3>
-
+PROS
+- Most used (speed) in the middle and easy to read
+CONS
+- odd shapes for bottom part of the display
 ### Dashboard 3
 <img src="images2/pic3.jpeg" width="500" height="400">
 <h3> Pros and Cons </h3>
