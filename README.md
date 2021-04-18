@@ -24,7 +24,8 @@
 # Creating a New Design
 
 ## Most common uses/ rare uses
-
+### Most common uses
+### Rare uses
 ## Controls used
 
 ## New Design Sketch
