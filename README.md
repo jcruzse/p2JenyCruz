@@ -33,11 +33,11 @@ PROS
  <li> Simple icons </li>
  </ul>
  CONS
- <lu>
+ <ul>
  <li> Icons are all over the place</li>
  <li> </li>
  </ul>
-### Dashboard 4
+<h3> Dashboard 4 </h3>
 <img src="images2/pic4.jpeg" width="500" height="400">
 <h3> Pros and Cons </h3>
 PROS
@@ -60,10 +60,10 @@ PROS
  <lu>
  <li> </li>
  </ul>
-# Creating a New Design
+<h1> Creating a New Design </h1>
 
-## Most common uses/ rare uses
-### Most common uses
+<h2> Most common uses/ rare uses </h2>
+<h3> Most common uses </h3>
  <ul>
  <li> Watching the speed</li>
  <li> Checking tire pressure</li>
@@ -72,11 +72,11 @@ PROS
  <li> Knowing if the parking break is on</li>
  <li> (If an option for your vehichle) knowing if 4 wheel drive is on</li>
  </ul>
-### Rare uses
+<h3> Rare uses </h3>
 <ul>
  <li> (If an option for your vehichle) knowing if 4 wheel drive is on</li>
  </lu>
-## Controls used
+<h2> Controls used </h2>
  <ul>
  <li> </li>
   <li> </li>
@@ -87,4 +87,4 @@ PROS
   <li> </li>
   <li> </li>
  </ul>
-## New Design Sketch
+<h2> New Design Sketch </h2>
