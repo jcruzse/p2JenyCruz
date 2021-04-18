@@ -55,9 +55,9 @@ PROS
 PROS
 <ul>
  <li> </li>
- </lu>
+ </ul>
  CONS
- <lu>
+ <ul>
  <li> </li>
  </ul>
 <h1> Creating a New Design </h1>
@@ -75,7 +75,7 @@ PROS
 <h3> Rare uses </h3>
 <ul>
  <li> (If an option for your vehichle) knowing if 4 wheel drive is on</li>
- </lu>
+ </ul>
 <h2> Controls used </h2>
  <ul>
  <li> </li>
