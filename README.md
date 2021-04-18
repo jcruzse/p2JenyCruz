@@ -6,14 +6,14 @@
 <h3> Pros and Cons </h3>
  PROS
  - different displays so easier to read
- - consistent design over the 5 different sections
+ - consistent design over the 5 different sections <br>
  CONS
  - May be overwhelming to have too many smaller displays
 ### Dashboard 2
 <img src="images2/pic2.jpeg" width="500" height="400">
 <h3> Pros and Cons </h3>
 PROS
-- Most used (speed) in the middle and easy to read
+- Most used (speed) in the middle and easy to read <br>
 CONS
 - odd shapes for bottom part of the display
 ### Dashboard 3
