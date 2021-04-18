@@ -2,7 +2,7 @@
 
 ## Examples of Car Dashboards 
 ### Dashboard 1
- <img src="images2/pic1.jpeg" width="500" height="400"> 
+ <img src="images2/pic1.jpeg" width="600" height="400"> 
 <h3> Pros and Cons </h3>
  PROS
  <ul>
@@ -14,7 +14,7 @@
  <li> May be overwhelming to have too many smaller displays</li>
  </ul>
 ### Dashboard 2
-<img src="images2/pic2.jpeg" width="500" height="400">
+<img src="images2/pic2.jpeg" width="600" height="400">
 <h3> Pros and Cons </h3>
 PROS
 <ul>
@@ -25,7 +25,7 @@ CONS
  <li> odd shapes for bottom part of the display </li>
  </ul>
 ### Dashboard 3
-<img src="images2/pic3.jpeg" width="500" height="400">
+<img src="images2/pic3.jpeg" width="600" height="400">
 <h3> Pros and Cons </h3>
 PROS
 <ul>
@@ -38,7 +38,7 @@ PROS
  <li> </li>
  </ul>
 <h3> Dashboard 4 </h3>
-<img src="images2/pic4.jpeg" width="500" height="400">
+<img src="images2/pic4.jpeg" width="600" height="400">
 <h3> Pros and Cons </h3>
 PROS
 <ul>
