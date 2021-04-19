@@ -85,3 +85,5 @@ PROS
  
  </ul>
 <h2> New Design Sketch </h2>
+<img src="images2/design1.jpg">
+<img src="images2/design2.jpg">
