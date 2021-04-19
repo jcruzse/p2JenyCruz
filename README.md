@@ -50,7 +50,7 @@ PROS
  <li> display at the bottom overlaps with circle icon </li>
  </ul>
 ### Dashboard 5
-![pic1](/images2/pic5.HEIC#left)
+<img src="images2/pic5.HEIC" width="600" height="400">
 <h3> Pros and Cons </h3>
 PROS
 <ul>
@@ -78,13 +78,10 @@ PROS
  </ul>
 <h2> Controls used </h2>
  <ul>
- <li> </li>
+ <li>cruise control </li>
+  <li>light signals </li>
+  <li>hazards </li>
   <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+ 
  </ul>
 <h2> New Design Sketch </h2>
