@@ -54,11 +54,13 @@ PROS
 <h3> Pros and Cons </h3>
 PROS
 <ul>
- <li> </li>
+ <li> not too many symbols</li>
+  <li>easy to locate speed, tachometer, and gas </li>
  </ul>
  CONS
  <ul>
- <li> </li>
+ <li>icons are all over the place on dashboard </li>
+  <li>speed is not easy to read </li>
  </ul>
 <h1> Creating a New Design </h1>
 
@@ -78,11 +80,12 @@ PROS
  </ul>
 <h2> Controls used </h2>
  <ul>
- <li>cruise control </li>
-  <li>light signals </li>
-  <li>hazards </li>
-  <li> </li>
- 
+ <li> cruise control </li>
+  <li> light signals </li>
+  <li> hazards </li>
+  <li> fuel indicator </li>
+  <li> outside temperature</li>
+   <li> engine temperature </li>
  </ul>
 <h2> New Design Sketch </h2>
 <img src="images2/design1.jpg">
@@ -92,5 +95,6 @@ PROS
  <li> all symbols are on either left or right at the bottom</li>
  <li> symbols on the right are warning signals </li>
  <li> show speed and rpm numbers so it is easier to read</li>
+  <li> engine temperature gauge would just be digital and show actual temperature on right side of dashboard</li>
 
  </ul>
