@@ -50,7 +50,7 @@ PROS
  <li> display at the bottom overlaps with circle icon </li>
  </ul>
 ### Dashboard 5
-<img src="images2/pic5.HEIC" width="600" height="400">
+<img src="images2/pic52.jpg" width="600" height="400">
 <h3> Pros and Cons </h3>
 PROS
 <ul>
@@ -87,3 +87,10 @@ PROS
 <h2> New Design Sketch </h2>
 <img src="images2/design1.jpg">
 <img src="images2/design2.jpg">
+<h3> Changes</h3>
+ <ul>
+ <li> all symbols are on either left or right at the bottom</li>
+ <li> symbols on the right are warning signals </li>
+ <li> show speed and rpm numbers so it is easier to read</li>
+
+ </ul>
